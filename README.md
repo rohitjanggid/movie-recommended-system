@@ -108,7 +108,7 @@ BCA Student | Machine Learning Learner | Python Developer
 📫 Connect on:-\
 [GitHub](https://github.com/rohitjanggid)\
 [Linkedin](https://www.linkedin.com/in/rohit-jangid-a185a7372)\
-[Twitter](https://x.com/rohit_janggid)\
+[Twitter](https://x.com/rohit_janggid)
 
 ---
 
