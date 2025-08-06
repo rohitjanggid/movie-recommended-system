@@ -105,10 +105,10 @@ When you enter a movie like `The Dark Knight`, it shows:
 
 **Rohit Khati**  
 BCA Student | Machine Learning Learner | Python Developer  
-📫 Connect on:-
+📫 Connect on:-\
 [GitHub](https://github.com/rohitjanggid)\
-[Linkedin](www.linkedin.com/in/rohit-jangid-a185a7372)
-[Twitter](https://x.com/rohit_janggid)
+[Linkedin](https://www.linkedin.com/in/rohit-jangid-a185a7372)\
+[Twitter](https://x.com/rohit_janggid)\
 
 ---
 
